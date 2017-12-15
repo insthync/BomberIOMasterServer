@@ -44,7 +44,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &1026001456153790
 GameObject:
   m_ObjectHideFlags: 1
@@ -947,7 +947,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &1954840690060436
 GameObject:
   m_ObjectHideFlags: 0
@@ -1963,6 +1963,7 @@ MonoBehaviour:
   textPowerUpMoveSpeed: {fileID: 114013547358743358}
   textRespawnCountDown: {fileID: 114077365396723732}
   textWatchedAdsCount: {fileID: 114858336123229122}
+  blackFade: {fileID: 0}
   respawnUiContainer: {fileID: 1022720844386790}
   respawnButtonContainer: {fileID: 1690478565218252}
   userRankings:
