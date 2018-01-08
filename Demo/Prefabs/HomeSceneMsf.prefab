@@ -538,7 +538,7 @@ MonoBehaviour:
   LogLevel: 3
   SpawnControllerLogLevel: 4
   DefaultMachineIp: 127.0.0.1
-  DefaultExePath: ./Build.x86_64
+  DefaultExePath: ./Build.exe
   DefaultSpawnInBatchmode: 0
   MaxSpawnedProcesses: 0
   SpawnWebglServers: 0
