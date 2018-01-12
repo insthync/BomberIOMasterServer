@@ -506,7 +506,6 @@ MonoBehaviour:
     availableGameRules:
     - {fileID: 11400000, guid: 8252b738eeab41c488592c66efd0564e, type: 2}
   countPlayersToCreateNewRoomDuration: 3
-  startPort: 1500
 --- !u!114 &114928463317033030
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -547,6 +546,7 @@ MonoBehaviour:
   AutoStartInEditor: 1
   OverrideExePathInEditor: 1
   ExePathFromEditor: C:\Users\ITTIPON\Desktop\UnityBuilds\BomberIOMsf_Win32\Build.exe
+  startPort: 1500
 --- !u!114 &114951091878013040
 MonoBehaviour:
   m_ObjectHideFlags: 1
