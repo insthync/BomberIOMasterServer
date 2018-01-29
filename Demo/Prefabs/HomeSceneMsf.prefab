@@ -505,6 +505,7 @@ MonoBehaviour:
     previewImage: {fileID: 0}
     availableGameRules:
     - {fileID: 11400000, guid: 8252b738eeab41c488592c66efd0564e, type: 2}
+    - {fileID: 11400000, guid: 8a508bd358197df43a08e6a6e92b9532, type: 2}
   countPlayersToCreateNewRoomDuration: 3
 --- !u!114 &114928463317033030
 MonoBehaviour:
