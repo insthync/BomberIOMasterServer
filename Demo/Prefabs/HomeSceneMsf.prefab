@@ -431,11 +431,11 @@ MonoBehaviour:
   ConnectionTimeout: 5
   SwitchScenesIfWrongScene: 1
   ConnectionFailedScene:
-    m_SceneAsset: {fileID: 102900000, guid: 152f36cdc44ee534888add29543ac653, type: 3}
-    m_SceneName: HomeWithMsf
+    m_SceneAsset: {fileID: 102900000, guid: 7553eb006ca44804da80c727b730ca83, type: 3}
+    m_SceneName: BattleWithMsf
   DisconnectedScene:
-    m_SceneAsset: {fileID: 102900000, guid: 152f36cdc44ee534888add29543ac653, type: 3}
-    m_SceneName: HomeWithMsf
+    m_SceneAsset: {fileID: 102900000, guid: 7553eb006ca44804da80c727b730ca83, type: 3}
+    m_SceneName: BattleWithMsf
 --- !u!114 &114529875151432324
 MonoBehaviour:
   m_ObjectHideFlags: 1

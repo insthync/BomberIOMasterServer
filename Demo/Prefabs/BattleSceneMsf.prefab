@@ -178,10 +178,10 @@ MonoBehaviour:
   ConnectionTimeout: 5
   SwitchScenesIfWrongScene: 1
   ConnectionFailedScene:
-    m_SceneAsset: {fileID: 102900000, guid: 152f36cdc44ee534888add29543ac653, type: 3}
+    m_SceneAsset: {fileID: 102900000, guid: f9c89b1d4843d4d4a96953d00ec6102b, type: 3}
     m_SceneName: HomeWithMsf
   DisconnectedScene:
-    m_SceneAsset: {fileID: 102900000, guid: 152f36cdc44ee534888add29543ac653, type: 3}
+    m_SceneAsset: {fileID: 102900000, guid: f9c89b1d4843d4d4a96953d00ec6102b, type: 3}
     m_SceneName: HomeWithMsf
 --- !u!114 &114743278840712582
 MonoBehaviour:
@@ -228,4 +228,4 @@ MonoBehaviour:
   startServerAsHost: 1
   autoJoinRoom: 1
   startMaster: 1
-  masterServerObject: {fileID: 0}
+  masterServer: {fileID: 0}
